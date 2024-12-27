@@ -1,0 +1,25 @@
+CMakeFiles/xmrig.dir/src/crypto/randomx/jit_compiler_x86_static.S.o: \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/jit_compiler_x86_static.S \
+ /usr/include/stdc-predef.h \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_prologue_linux.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_xmm_constants.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_imul_rcp_store.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_loop_load.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_loop_load_xop.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_read_dataset.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_read_dataset_sshash_init.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_read_dataset_sshash_fin.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_loop_store.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_save_registers.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_constants.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_loop_begin.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_loop_end.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_epilogue.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_ssh_load.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_avx2_ssh_prefetch.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_epilogue_store.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_epilogue_linux.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_load.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_prefetch.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/program_sshash_constants.inc \
+ /mnt/c/Users/uzer/mining/test/xmrig/src/crypto/randomx/asm/randomx_reciprocal.inc
